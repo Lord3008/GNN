@@ -1,4 +1,7 @@
 # GNN
+# Contents:
+  ML Models:
+  Output Images:
 ### Graph Neural Networks (GNNs)
 
 Graph Neural Networks (GNNs) are a class of neural networks designed to work on graph-structured data. Graphs are powerful data structures used to represent relationships between objects, and they are widely used in a variety of domains such as social networks, knowledge graphs, molecular chemistry, and recommendation systems.
